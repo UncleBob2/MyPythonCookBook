@@ -1,18 +1,3 @@
-# Code        	Result
-# \'              Single Quote (escape character)
-# \"              Double Quote (escape character)
-# \\             	Backslash	(escape character)
-# \n              Line
-# \r              Carriage Return
-# \t              Tab
-# \b              Backspace
-# \f              Form Feed
-# \ooo            Octal value
-# \xhh            Hex value
-# {} - placeholder for string formating
-
-
-
 # String format()  - allows you to format selected parts of a string.
 #Format the price to be displayed as a number with two decimals:
 price1 = 12.3434
@@ -44,7 +29,6 @@ age = 36     # assigned {0} index below
 name = "John"   # assigned {1} index below
 txt = "His name is {1}. {1} is {0} years old."
 print(txt.format(age, name))
-
 
 #String Methods - All string methods returns new values. They do not change the original string.
 
@@ -95,3 +79,15 @@ translate()	Returns a translated string
 upper()         	Converts a string into upper case
 zfill()         	Fills the string with a specified number of 0 values at the beginning
 '''
+# Code        	Result
+# \'              Single Quote (escape character)
+# \"              Double Quote (escape character)
+# \\             	Backslash	(escape character)
+# \n              Line
+# \r              Carriage Return
+# \t              Tab
+# \b              Backspace
+# \f              Form Feed
+# \ooo            Octal value
+# \xhh            Hex value
+# {} - placeholder for string formating
