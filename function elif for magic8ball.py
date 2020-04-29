@@ -23,3 +23,4 @@ def getAnswer(answerNumber):
 r = random.randint(1, 9)
 fortune = getAnswer(r)
 print(fortune)
+# the above three lines can be combined to print(getAnswer(random.randint(1, 9)))
