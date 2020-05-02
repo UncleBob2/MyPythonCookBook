@@ -73,3 +73,45 @@ print('\nDiction loop example 2')
 for key, value in diction.items():
     print(key, '=', value)
 
+#The setdefault() method call ensures that the key is in the count dictionary (with a default value of 0)
+print()
+import pprint
+message = 'It was a bright cold day in April, and the clocks were striking thirteen.'
+count = {}
+for character in message:
+    count.setdefault(character, 0)
+    count[character] = count[character] + 1
+pprint.pprint(count)
+
+print()
+
+allGuests = {'Alice': {'apples':5, 'pretzels':12},
+             'Bob': {'ham sandwiches':3, 'apples':2},
+             'Carol': {'cups':3, 'apple pies':1}}
+
+def total_bought(guests,items):
+    num_brought = 0
+    for key,value in guests.items():
+        num_brought= num_brought + value.get(items,0)
+    return num_brought
+
+print('Number of things being brought:')
+print(' - Apples          '+ str(total_bought(allGuests,'apples')))
+print(' - Cups            '+ str(total_bought(allGuests, 'cups')))
+print(' - Ham Sandwiches  '+ str(total_bought(allGuests, 'ham sandwiches')) )
+
+
+
+print()
+# inventory.py
+stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}
+
+def displayInventory(inventory):
+    print("Inventory:")
+    item_total = 0
+    for k, v in inventory.items():
+        item_total = item_total +v.get(inventory)
+    print("Total number of items: " + str(item_total))
+
+
+displayInventory(stuff)
