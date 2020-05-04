@@ -1,3 +1,10 @@
+# raw strings
+# A raw string completely ignores all escape characters and
+# prints any backslash that appears in the string.
+#>>> print(r'That is Carol\'s cat.')
+#That is Carol\'s cat.
+
+
 # String format()  - allows you to format selected parts of a string.
 #Format the price to be displayed as a number with two decimals:
 price1 = 12.3434
