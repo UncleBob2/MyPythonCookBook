@@ -4,7 +4,7 @@
 import logging
 import time
 #create logger
-logging.basicConfig(filename= 'exceptionexample.log', level=logging.DEBUG)
+logging.basicConfig(filename= 'exception example.log', level=logging.DEBUG)
 logger = logging.getLogger()
 
 def read_file_timed(path):
