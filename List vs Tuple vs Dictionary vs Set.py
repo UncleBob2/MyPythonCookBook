@@ -2,7 +2,7 @@
 
 # List [] – add, remove, and change data             ['apple', 'banana', 'cherry']
 # Tuple () – cannot be changed i.e. immutable        ('apple', 'banana', 'cherry')
-# Set {}  - ordered, no duplicate values             {'apple', 'banana', 'cherry'}
+# Set {}  - is unordered and has no duplicate values             {'apple', 'banana', 'cherry'}
 # Dictionary{:} keys, not ordered data(aka array,map) {'name':'apple, 'color':'green'}
 
 # Below is an example of a list with square brackets
