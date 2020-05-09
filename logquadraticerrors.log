@@ -1,0 +1,3 @@
+INFO 2020-05-08 17:11:02,797 - quadratic_formula(1, 0, 1)
+DEBUG 2020-05-08 17:11:02,798 - # Compute the discrimant
+DEBUG 2020-05-08 17:11:02,798 - # compute first root
