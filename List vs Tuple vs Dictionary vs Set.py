@@ -1,7 +1,7 @@
 # List [] vs Tuple () vs Dictionary vs Set{}
 
 # List [] – add, remove, and change data             ['apple', 'banana', 'cherry']
-# Tuple () – cannot be changed i.e. immutable        ('apple', 'banana', 'cherry')
+# Tuple () – once created, cannot change in size or content i.e. immutable  i.e. coordinate(x,y,z)      ('apple', 'banana', 'cherry')
 # Set {}  - is unordered and has no duplicate values             {'apple', 'banana', 'cherry'}
 # Dictionary{:} keys, not ordered data(aka array,map) {'name':'apple, 'color':'green'}
 

@@ -23,4 +23,10 @@ with open('oceans.txt', 'a') as f: # append and not overwrite
     print(23*'=', file=f)
     print('These are the 5 oceans.', file=f)
 
+# Reading 20G data file line by line without requires large RAM
+f = open('small.txt', 'r')
+for line in f:   # reading line by line
+    print(line,end="")
+f.close()
+
 
