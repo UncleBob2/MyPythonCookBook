@@ -51,44 +51,67 @@ print(emp_1.fullname()) # the brackets are needed because fullname is a method, 
 emp_1.fullname() #emp_1 is an instance, method does not need to pass in self
 Employee.fullname(emp_1) # Employee is a class and the method is full name, we need to specify the instance
 
-class Dog:
-    # this method is initialized, name - whenever we create instance, we must give it a name
-        def __init__(self, name, age, color):
-            self.name = name  # name is an attribute of the class dog
-            self.age = age
-            self.color = color
-            print("\nA new instance of class dog is created with name: ", name)
-
-        def add_one(self,x):
-            return x +1
-
-        def bark(self):
-            print("bark")
-
-        def get_name(self):
-            return self.name
-
-        def get_age(self):
-            return self.age
-
-        def get_color(self):
-            return self.color
-
-        def set_age(self,age):
-            self.age = age
-
-
-d = Dog("Tim", 34,"red")  # Dog(), we are create an instance of class dog, "Tim" is an argument
-d2 = Dog("Bill", 12, "brown")
-
-print(d.name)
-d.set_age(23)
-print(d.age)
-print(d.color)
-
 print()
-print(d2.get_name())
-print(d2.get_age())
-print(d2.get_color())
+class Pet: # parent class
+    number_of_pet = 0  # class attribute
+    def __init__(self,name, age):
+        self.name = name
+        self.age = age
+        Pet.number_of_pet +=1
+
+    @classmethod
+    def number_of_people(cls): # just act on the class and not the instance, not ref self
+        return cls.number_of_people()
+
+    def show(self):
+        print(f"I am {self.name} and I am {self.age} years old ")
+
+    def speak(self):
+        print("I don't know what I say")
+
+class Cat(Pet):  # child class
+    def speak(self):
+        print('Meow')
+
+class Dog(Pet):
+    def __init__(self,name, age,color):
+        super().__init__(name,age) # using super class
+        self.color = color
+
+    def speak(self):
+        print("Bark")
+
+    def show(self):
+        print(f"I am {self.name} and I am {self.age} years old and I am {self.color}")
+
+class Fish(Pet):
+    pass
+
+class Math:
+    @staticmethod
+    def add5(x):
+        return x +5
+
+    @staticmethod
+    def add10(x):
+        return x +10
+    @staticmethod
+    def pr():
+        print('run')
+
+p = Pet("Tim", 19)
+p.show()
+c = Cat("Bill", 34)
+c.speak()
+print(Pet.number_of_pet)
+d= Dog("Jill",25, "brown")
+d.show()
+f = Fish("Bubbles", 23)
+f.speak()
+print(Pet.number_of_pet)
+
+Math.pr()
+
+
 
 
