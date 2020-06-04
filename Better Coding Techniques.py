@@ -1,5 +1,5 @@
 '''
-
+https://www.youtube.com/watch?v=C-gEQdGVXbk
 condition = False
 
 if condition:
@@ -46,15 +46,22 @@ for index, name in enumerate(names, start=1):
 # 5) Zip - indexing multiple list at the same time
 names = ['Peter Parker', 'Clark Kent', 'Wade Wilson', 'Bruce Wayne']
 heroes = ['Spiderman', 'Superman', 'Deadpool', 'Batman']
-
-for name, hero in zip(names, heroes):
-    print(f'{name} is actually {hero}')
+universes = ['Marvel', 'DC', 'Marvel', 'DC']
 
 
+for name, hero, universe in zip(names, heroes, universes):
+    print(f'{name} is actually {hero} from {universe}')
 
 
 # 6) Unpacking - 13:02
-# 7) Setattr/Getattr - 19:08
+a, b, *c, d = (1, 2, 3, 4, 5) # can also use _ for unused variables
+
+print(a)
+print(b)
+print(c)
+print(d)
+
+
 # 8) GetPass - 26:24
 # 9) Python dash m - 29:18
 # 10) Help/Dir - 33:17
