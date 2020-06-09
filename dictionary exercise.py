@@ -13,9 +13,9 @@ so the most common word is first, then the next most common, and so on.
 
 def print_words(filename):
     f = open(filename, 'r')
-    frequency = { }
-    newfrequency= { }
-    count =0
+    frequency = {}
+    newfrequency = {}
+    count = 0
 
     for line in f:  # reading line by line
         txt = line.lower().split()
@@ -33,11 +33,12 @@ def print_words(filename):
     print('\n')
     return
 
+
 def top_counts(filename):
     f = open(filename, 'r')
-    frequency = { }
-    newfrequency= { }
-    count =0
+    frequency = {}
+    newfrequency = {}
+    count = 0
 
     for line in f:  # reading line by line
         txt = line.lower().split()
@@ -57,7 +58,6 @@ def top_counts(filename):
     print('\n')
     return
 
-#print_words('small.txt')
+
+# print_words('small.txt')
 top_counts('alice.txt')
-
-
