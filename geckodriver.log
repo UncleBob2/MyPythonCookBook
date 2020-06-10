@@ -1,0 +1,289 @@
+1588962218949	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofileM9DGVu"
+1588962219315	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588962219704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588962219704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588962219705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588962219705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588962221224	Marionette	INFO	Listening on port 63669
+1588962221574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588962276740	Marionette	INFO	Stopped listening on port 63669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 446: Error: OS.File has been shut down. Rejecting request to stat
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1588962273329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588962273329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588962273330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588962273330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588962274787	Marionette	INFO	Listening on port 63712
+1588962275243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588962323652	Marionette	INFO	Stopped listening on port 63712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588962315198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588962315198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588962315199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588962315199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588962316734	Marionette	INFO	Listening on port 63757
+1588962317127	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 697))
+1588962837868	Marionette	INFO	Stopped listening on port 63757
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 23560, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+zilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588962742489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588962742490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588962742490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588962744054	Marionette	INFO	Listening on port 63915
+1588962744364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963676256	Marionette	INFO	Stopped listening on port 63915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofileH2sarZ"
+1588962818905	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588962819296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588962819296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588962819296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588962819296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588962820577	Marionette	INFO	Listening on port 63984
+1588962820623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588962835135	Marionette	INFO	Stopped listening on port 63984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588963172236	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofileH2cm0w"
+1588963172662	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963173048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963173048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963173048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963173048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963174689	Marionette	INFO	Listening on port 64120
+1588963174857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963674795	Marionette	INFO	Stopped listening on port 64120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963315634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963315634	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963315635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963315635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963317103	Marionette	INFO	Listening on port 64207
+1588963317517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963329985	Marionette	INFO	Stopped listening on port 64207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26504, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588963345607	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofilecgj4B5"
+1588963345988	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963346426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963346426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963346427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963346427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963347938	Marionette	INFO	Listening on port 64275
+1588963348242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963354595	Marionette	INFO	Stopped listening on port 64275
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588963406673	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofilepLbNvi"
+1588963406998	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963407391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963407391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963407391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963407391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963408882	Marionette	INFO	Listening on port 64339
+1588963409306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963677416	Marionette	INFO	Stopped listening on port 64339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963483561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963483561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963483562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963483562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963485243	Marionette	INFO	Listening on port 64405
+1588963485372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963487433	Marionette	INFO	Stopped listening on port 64405
+[Child 25860, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1588963552412	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofileFkEr0O"
+1588963552720	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963553124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963553124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963553124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963553124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963554767	Marionette	INFO	Listening on port 64540
+1588963555030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963561920	Marionette	INFO	Stopped listening on port 64540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588963661666	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofilel3sSyy"
+1588963661995	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963662455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963662455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963662455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963662455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963663950	Marionette	INFO	Listening on port 64613
+1588963664288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963684925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Winsor\\AppData\\Local\\Temp\\rust_mozprofile4SLri1"
+1588963685260	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588963685662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588963685662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588963685662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588963685662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get compositor device for EGLDisplay
+[GFX1-]: Failed to load EGL library: FEATURE_FAILURE_NO_DISPLAY
+[GFX1-]: Failed to get shared GL context
+[GFX1-]: Failed to connect WebRenderBridgeChild.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588963687140	Marionette	INFO	Listening on port 64670
+1588963687552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588963694723	Marionette	INFO	Stopped listening on port 64670
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
