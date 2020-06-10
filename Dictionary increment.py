@@ -2,7 +2,7 @@
 # d['a'] = 'alpha' #key = a, storage alpha at key a
 # d['o'] = 'omega'
 # count characters in a word
-word = 'brontosaurusxx'
+word = 'brontosaurus'
 a_dict = {}
 for char in word:  # word is string
     if char in a_dict:
