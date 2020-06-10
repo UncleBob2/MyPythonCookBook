@@ -1,2 +1,0 @@
-# MyPythonCookBook
-Python Codes
