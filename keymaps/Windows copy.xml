@@ -1,0 +1,44 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Console.Execute.Multiline" />
+  <action id="CopyElement" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSplitLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ViewSource" />
+</keymap>
