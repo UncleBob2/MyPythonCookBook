@@ -1,0 +1,1 @@
+{"title": "Minority Report", "director": "Steven Spielberg", "composer": "John Williams","is_awsome":true, "won_oscar":false, "budget":null, "cinematographer": "Janusz Kamiński"}
