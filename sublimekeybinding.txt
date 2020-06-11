@@ -1,0 +1,10 @@
+[
+
+    { "keys": ["ctrl+j"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["ctrl+l"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["ctrl+i"], "command": "move", "args": {"by": "lines", "forward": false} },
+    { "keys": ["ctrl+m"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["ctrl+enter"], "command": "build" },
+    { "keys": ["crtr+alt+c"], "command": "cancel_build"},
+
+]
