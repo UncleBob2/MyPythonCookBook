@@ -1,0 +1,31 @@
+ pip list
+ pip3 list -o
+ pip3 install -U setuptools
+ pip freeze > requirement.txt
+
+ pip list --outdated
+ pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
+
+
+ pip install -r requirements.txt
+
+ mkdir Environments
+ cd Environments
+ # create virtual env
+ virtualenv project1_env
+
+ # need to activate it to enter the new environment
+ source project1_env/bin/activate
+
+ pip list
+ pip install numpy
+ pip install pytz
+ pip install psutil
+ pip list
+
+ pip freeze --local > requirements.txt
+
+# to exit environment
+deactivate
+
+
