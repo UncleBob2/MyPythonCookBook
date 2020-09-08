@@ -12,7 +12,7 @@ with open(filename, 'r') as f:
         word = word.rstrip().lower()
         word_len = len(word)
         for i in range(1, word_len, 1):
-            if (word[:word_len-i][::-1] == f.read.rstrip().lower()):
+            if (word[:word_len-i][::-1] == ):
                 print(word, word[:word_len-i][::-1])
         # if word == word[::-1]:  # reverse palindrome
         #     print('This word is palindrome: ', word)
